@@ -1,0 +1,5 @@
+.swiper-pagination {
+    bottom: -1px !important; /* Position it to make sure it's visible */
+    text-align: center;
+    position: relative;
+  }
